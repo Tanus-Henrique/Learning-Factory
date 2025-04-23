@@ -15,18 +15,6 @@ Este repositório foi criado como parte da minha jornada para **me aprofundar de
 - 📊 Análise exploratória de dados (EDA)
 - 🤖 Modelos supervisionados e não supervisionados
 - 🔄 Pré-processamento de dados
-- 🧪 Experimentação com bibliotecas como:
-  - `pandas`, `numpy`, `matplotlib`, `seaborn`
-  - `scikit-learn`, `xgboost`, `lightgbm`
-  - `jupyter` para notebooks interativos
-
-## 🚀 Tecnologias
-
-- Python 3.8+
-- Jupyter Notebooks
-- Scikit-learn, Pandas, NumPy
-- Visualização com Matplotlib e Seaborn
-- Bibliotecas auxiliares para modelagem e otimização
 
 ## 🛠️ Instalação
 
