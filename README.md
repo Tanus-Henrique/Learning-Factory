@@ -21,4 +21,4 @@ Este repositório foi criado como parte da minha jornada para **me aprofundar de
 Clone o repositório e instale as dependências com:
 
 ```bash
-pip install -r requirements
+pip install -r requirements.txt
