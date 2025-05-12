@@ -18,7 +18,7 @@ Este repositório foi criado como parte da minha jornada para **me aprofundar de
 
 ## 🛠️ Instalação
 
-Clone o repositório e instale as dependências com
+Clone o repositório e instale as dependências com pip install requirements
 
 ```bash
 pip install -r requirements
